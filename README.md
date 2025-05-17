@@ -1,2 +1,14 @@
-# Tata-Data-Visualisation-Job-Simulation-on-Forage
-I recently participated in Tata's job simulation on the Forage platform, and I worked on a project to help a retail client review their revenue data to prepare for the future. I created data visuals, practiced using Tableau and PowerBI to represent information, and built my presentation skills in a real-world context.
+# Tata Data Visualisation Job Simulation on Forage - May 2025
+
+
+ * Completed a simulation involving creating data visualizations for Tata Consultancy Services.
+ * Prepared questions for a meeting with client senior leadership.
+ * Created visuals for data analysis to help executives with effective decision making.
+ * Skills Learned :
+      1.  Analysis & Presentation
+      2.  Analytics & Insights
+      3.  Data Analysis
+      4.  Data Cleanup
+      5.  Data Visualisation
+      6.  Data Interpretation
+    
